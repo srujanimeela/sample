@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 sample text
+=======
+sample
+>>>>>>> c00f832a47e8fdeec16adce1faa22e1917463674
